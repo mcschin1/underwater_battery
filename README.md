@@ -1,4 +1,4 @@
-# underwater_battery
+# Battery
 Underwater Battery Power System for Marine and Offshore Industry
 
 
